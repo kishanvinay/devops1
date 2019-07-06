@@ -1,1 +1,2 @@
 this is the file3.txt
+this is the sceond line of file3.txt
