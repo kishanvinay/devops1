@@ -1,1 +1,5 @@
+
 this is the first line of file12.txt commited in branch3
+
+this is the first line of file12.txt commit in branch2
+
