@@ -1,1 +1,4 @@
+
 This is the first line in master branch
+this is the first line in the branch2
+
